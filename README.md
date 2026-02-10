@@ -3,7 +3,6 @@
 This repository provides the official implementation and dataset access for the paper:
 
 **Finding the Sweet Spot: Systematic Analysis and Robotic Validation of Synthetic Data for Few-Shot Endoscopic Needle Detection**  
-//(*to appear in MICCAI 2026, under review*)
 
 We investigate how the **scale and design of synthetic data** affect real-world performance in **few-shot endoscopic needle detection**, with systematic experiments and **robotic validation**.
 
