@@ -42,7 +42,7 @@ This project addresses this gap by:
 
 ## 📂 Repository Structure
 
-```
+```text
 synthetic-endoscopic-needle-detection/
 ├── README.md
 ├── LICENSE
